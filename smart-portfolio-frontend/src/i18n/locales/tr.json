@@ -1,0 +1,86 @@
+{
+  "common": {
+    "welcome": "Hoş Geldiniz",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "create": "Oluştur",
+    "search": "Ara",
+    "confirm": "Onayla",
+    "yes": "Evet",
+    "no": "Hayır"
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "logout": "Çıkış Yap",
+    "username": "Kullanıcı Adı",
+    "email": "E-posta",
+    "password": "Şifre",
+    "firstName": "Ad",
+    "lastName": "Soyad",
+    "alreadyHaveAccount": "Zaten hesabınız var mı?",
+    "dontHaveAccount": "Hesabınız yok mu?",
+    "loginSuccess": "Giriş başarılı!",
+    "registerSuccess": "Kayıt başarılı!",
+    "logoutSuccess": "Çıkış başarılı"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "dashboard": "Yönetim Paneli",
+    "projects": "Projeler",
+    "blogs": "Blog",
+    "skills": "Yetenekler",
+    "users": "Kullanıcılar",
+    "portfolio": "Portfolyo"
+  },
+  "projects": {
+    "title": "Projeler",
+    "createProject": "Proje Oluştur",
+    "editProject": "Proje Düzenle",
+    "projectTitle": "Proje Başlığı",
+    "description": "Açıklama",
+    "technologies": "Teknolojiler",
+    "githubUrl": "GitHub URL",
+    "liveUrl": "Canlı URL",
+    "featured": "Öne Çıkan",
+    "active": "Aktif",
+    "imageUrl": "Görsel URL",
+    "deleteConfirm": "Bu projeyi silmek istediğinizden emin misiniz?"
+  },
+  "blogs": {
+    "title": "Blog",
+    "createBlog": "Blog Oluştur",
+    "editBlog": "Blog Düzenle",
+    "blogTitle": "Blog Başlığı",
+    "content": "İçerik",
+    "excerpt": "Özet",
+    "tags": "Etiketler",
+    "published": "Yayınlandı",
+    "views": "Görüntülenme",
+    "imageUrl": "Görsel URL",
+    "deleteConfirm": "Bu blog yazısını silmek istediğinizden emin misiniz?"
+  },
+  "skills": {
+    "title": "Yetenekler",
+    "createSkill": "Yetenek Ekle",
+    "editSkill": "Yetenek Düzenle",
+    "skillName": "Yetenek Adı",
+    "level": "Seviye",
+    "category": "Kategori",
+    "iconUrl": "İkon URL",
+    "deleteConfirm": "Bu yeteneği silmek istediğinizden emin misiniz?"
+  },
+  "portfolio": {
+    "title": "Portfolyo",
+    "featuredProjects": "Öne Çıkan Projeler",
+    "latestBlogs": "Son Blog Yazıları",
+    "mySkills": "Yeteneklerim",
+    "viewProject": "Projeyi Görüntüle",
+    "readMore": "Devamını Oku"
+  }
+}
